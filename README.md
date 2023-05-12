@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-
+npm install in the terminal at the root of the project directory
+Use npm run both in the frontend directory to run frontend and backend concurrently
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
